@@ -28,7 +28,7 @@
     </component>
 
     <component name="usrptx1" class="usrptx">
-      <parameter name="frequency" value="5010000000"/>
+      <parameter name="frequency" value="698000000"/>
       <parameter name="rate" value="250000"/>
       <parameter name="streaming" value="false"/>
       <port name="input1" class="input"/>
